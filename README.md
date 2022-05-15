@@ -1,2 +1,2 @@
 # hello-world
-#This is a practice fro github 
+#This is a practice for github 
